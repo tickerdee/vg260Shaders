@@ -1,0 +1,29 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-14032
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1001 outsize=1283 ok=1
+Cmd: preprocess
+  insize=1044 outsize=1299 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7540 outsize=3508 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7540 outsize=10154 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4283 outsize=2753 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4283 outsize=6149 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6642 outsize=3508 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6642 outsize=2346 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3585 outsize=2484 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3585 outsize=1314 kw= pd= ok=1
+Cmd: preprocess
+  error: 2 plat 18 at (30): Syntax error
+  insize=1847 outsize=452 ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (12): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'appdata v'
+  insize=2086 outsize=556 ok=0
