@@ -1,29 +1,210 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-14032
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-12680
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=1001 outsize=1283 ok=1
-Cmd: preprocess
-  insize=1044 outsize=1299 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=7540 outsize=3508 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=7540 outsize=10154 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=4283 outsize=2753 kw=POINT SHADOWS_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=4283 outsize=6149 kw=POINT SHADOWS_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=6642 outsize=3508 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=6642 outsize=2346 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=3585 outsize=2484 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=3585 outsize=1314 kw= pd= ok=1
-Cmd: preprocess
-  error: 2 plat 18 at (30): Syntax error
-  insize=1847 outsize=452 ok=0
-Cmd: preprocess
   error: 2 plat 18 at (12): Surface shader vertex function 'vert' #0 parameter has wrong modifier; has no modifier but needs 'inout' at 'appdata v'
-  insize=2086 outsize=556 ok=0
+  insize=2081 outsize=556 ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (12): Surface shader vertex function 'vert' not found
+  insize=1848 outsize=487 ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (12): #pragma surface does not allow specifying other programs
+  error: 2 plat 18 at (12): Surface shader vertex function 'vert' not found
+  insize=1859 outsize=487 ok=0
+Cmd: preprocess
+  insize=1690 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (50): undeclared identifier 'TRANSFORM_TEX'\nCompiling Vertex program
+  api=4 type=0 insize=1588 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1617 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (50): undeclared identifier 'TRANSFORM_TEX'\nCompiling Vertex program
+  api=4 type=0 insize=1515 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1621 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (46): Output variable vert contains a system-interpreted value (SV_POSITION) which must be written in every execution path of the shader.  Unconditional initialization may help.\nCompiling Vertex program
+  error: 1 plat 4 at (46): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=1519 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1647 outsize=400 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (46): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=1545 outsize=599 kw= pd= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Program 'frag', error X3501: 'frag': entrypoint not found\nCompiling Fragment program
+  api=4 type=1 insize=1545 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1904 outsize=400 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (46): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=1802 outsize=599 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1802 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1907 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (49): syntax error: unexpected token '{'\nCompiling Vertex program
+  api=4 type=0 insize=1805 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1947 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (51): syntax error: unexpected token ';'\nCompiling Vertex program
+  api=4 type=0 insize=1845 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1947 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (50): comma expression used where a vector constructor may have been intended\nCompiling Vertex program
+  error: 2 plat 4 at (51): syntax error: unexpected token ';'\nCompiling Vertex program
+  api=4 type=0 insize=1845 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1953 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (51): syntax error: unexpected token ';'\nCompiling Vertex program
+  api=4 type=0 insize=1851 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1954 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (46): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=1852 outsize=599 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1852 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1966 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (54): undeclared identifier 'TRANSFORM_TEX'\nCompiling Vertex program
+  api=4 type=0 insize=1864 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1950 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): invalid subscript 'vertex'\nCompiling Vertex program
+  api=4 type=0 insize=1848 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1893 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): undeclared identifier 'TRANSFORM_TEX'\nCompiling Vertex program
+  api=4 type=0 insize=1791 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1925 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (54): undeclared identifier '_MainTex_ST'\nCompiling Vertex program
+  api=4 type=0 insize=1823 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1928 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (54): invalid subscript 'xy'\nCompiling Vertex program
+  api=4 type=0 insize=1826 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1871 outsize=401 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (59): undeclared identifier '_MainTex'\nCompiling Vertex program
+  api=4 type=0 insize=1769 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1868 outsize=401 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1766 outsize=689 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1766 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=948 outsize=247 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1000 outsize=1087 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1000 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1607 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1642 outsize=1087 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1642 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1608 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1643 outsize=1087 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1643 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1643 outsize=264 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): cannot map expression to vs_4_0 instruction set\nCompiling Vertex program
+  api=4 type=0 insize=1678 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1635 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1670 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1670 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1636 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1671 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1671 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1638 outsize=263 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): cannot map expression to vs_4_0 instruction set\nCompiling Vertex program
+  api=4 type=0 insize=1673 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1638 outsize=264 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): cannot map expression to vs_4_0 instruction set\nCompiling Vertex program
+  api=4 type=0 insize=1673 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1635 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1670 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1670 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1677 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1712 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1712 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1681 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1716 outsize=1168 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1716 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1680 outsize=264 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): cannot map expression to vs_4_0 instruction set\nCompiling Vertex program
+  api=4 type=0 insize=1715 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1680 outsize=264 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): cannot map expression to vs_4_0 instruction set\nCompiling Vertex program
+  api=4 type=0 insize=1715 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1683 outsize=264 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (52): 'tex2Dlod': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dlod(sampler2D, float4|half4|min10float4|min16float4)\nCompiling Vertex program
+  api=4 type=0 insize=1718 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1698 outsize=263 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1733 outsize=1331 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1733 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1698 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1733 outsize=1339 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1733 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1656 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1691 outsize=1339 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1691 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1663 outsize=264 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1698 outsize=1355 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1698 outsize=616 kw= pd= ok=1
