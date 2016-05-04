@@ -1,288 +1,836 @@
-Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-12188
+Base path: D:/Programs/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1356
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=991 outsize=1273 ok=1
-Cmd: preprocess
-  insize=991 outsize=1273 ok=1
-Cmd: preprocess
-  insize=30 outsize=27 ok=1
-Cmd: preprocess
-  insize=38 outsize=35 ok=1
-Cmd: preprocess
-  insize=39 outsize=36 ok=1
-Cmd: preprocess
-  insize=241 outsize=238 ok=1
-Cmd: preprocess
-  insize=218 outsize=215 ok=1
+  insize=1663 outsize=264 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1162 outsize=973 kw= pd= ok=1
+  api=4 type=0 insize=1698 outsize=1355 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1162 outsize=518 kw= pd= ok=1
+  api=4 type=1 insize=1698 outsize=616 kw= ok=1
 Cmd: preprocess
-  insize=220 outsize=217 ok=1
+  insize=2058 outsize=414 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1943 outsize=1420 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1943 outsize=892 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10561 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4036 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9591 outsize=10358 kw=UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9591 outsize=2639 kw=UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10869 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
 Cmd: preprocess
-  insize=200 outsize=197 ok=1
+  insize=1007 outsize=1289 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7446 outsize=3508 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7446 outsize=10154 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4255 outsize=2753 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4255 outsize=6149 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6564 outsize=3508 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6564 outsize=7416 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3508 outsize=2484 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3508 outsize=1314 kw= ok=1
 Cmd: preprocess
-  insize=220 outsize=217 ok=1
+  insize=8518 outsize=8382 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7868 outsize=3508 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7868 outsize=10154 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4676 outsize=2753 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4676 outsize=6149 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6985 outsize=3508 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6985 outsize=7416 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3929 outsize=2484 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3929 outsize=1314 kw= ok=1
 Cmd: preprocess
-  insize=259 outsize=256 ok=1
+  insize=8970 outsize=8382 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (233): undeclared identifier 'vec2'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=8320 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=0
 Cmd: preprocess
-  insize=258 outsize=255 ok=1
+  insize=8972 outsize=8383 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8322 outsize=3508 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8322 outsize=10154 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5130 outsize=2753 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5130 outsize=6149 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7439 outsize=3508 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7439 outsize=7416 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4383 outsize=2484 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4383 outsize=1314 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=541 outsize=3533 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=541 outsize=453 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5130 outsize=2753 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5130 outsize=5418 kw=DIRECTIONAL SHADOWS_OFF ok=1
 Cmd: preprocess
-  insize=260 outsize=257 ok=1
+  insize=9324 outsize=8382 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8674 outsize=3508 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8674 outsize=9001 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5482 outsize=2753 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5482 outsize=5263 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7791 outsize=3508 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7791 outsize=6823 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4735 outsize=2484 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4735 outsize=1314 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5482 outsize=2753 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5482 outsize=4532 kw=DIRECTIONAL SHADOWS_OFF ok=1
 Cmd: preprocess
-  insize=261 outsize=258 ok=1
+  error: 1 plat 16 at (197): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=9229 outsize=7469 ok=1
 Cmd: preprocess
-  error: 1 plat 18 at (11): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
-  insize=369 outsize=317 ok=1
+  error: 1 plat 16 at (195): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=9097 outsize=7376 ok=1
 Cmd: preprocess
-  insize=382 outsize=333 ok=1
+  error: 1 plat 16 at (12): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=2064 outsize=342 ok=1
+Cmd: preprocess
+  insize=2263 outsize=360 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (77): unrecognized identifier 'appdata'\nCompiling Vertex program
+  api=4 type=0 insize=2204 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2409 outsize=360 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (87): undeclared identifier 'TRANSFORM_TEX'\nCompiling Vertex program
+  api=4 type=0 insize=2350 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2362 outsize=360 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (100): undeclared identifier '_Blend'\nCompiling Vertex program
+  api=4 type=0 insize=2303 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2324 outsize=360 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (83): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=2265 outsize=1038 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2265 outsize=770 kw= ok=1
+Cmd: preprocess
+  insize=2296 outsize=360 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (83): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=2237 outsize=1038 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2237 outsize=673 kw= ok=1
+Cmd: preprocess
+  insize=1150 outsize=358 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (37): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=1091 outsize=1038 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1091 outsize=770 kw= ok=1
+Cmd: preprocess
+  insize=463 outsize=358 ok=1
 Cmd: compileSnippet
   error: 2 plat 4 at (0): Program 'vert', error X3501: 'vert': entrypoint not found\nCompiling Vertex program
-  api=4 type=0 insize=346 outsize=0 kw= pd= ok=0
+  api=4 type=0 insize=404 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=507 outsize=333 ok=1
+  insize=2429 outsize=378 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=471 outsize=209 kw= pd= ok=1
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=2352 outsize=1038 kw= ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (28): 'frag': Not all control paths return a value\nCompiling Fragment program
-  api=4 type=1 insize=471 outsize=0 kw= pd= ok=0
+  api=4 type=1 insize=2352 outsize=770 kw= ok=1
 Cmd: preprocess
-  insize=501 outsize=327 ok=1
+  error: 1 plat 16 at (13): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=2123 outsize=360 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (28): 'frag': Not all control paths return a value\nCompiling Fragment program
-  api=4 type=1 insize=471 outsize=0 kw= pd= ok=0
+  api=4 type=0 insize=6810 outsize=4053 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6810 outsize=1631 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6810 outsize=3663 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6810 outsize=1314 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3647 outsize=2753 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3647 outsize=1168 kw=DIRECTIONAL ok=1
 Cmd: preprocess
-  insize=936 outsize=327 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=906 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (36): 'frag': Not all control paths return a value\nCompiling Fragment program
-  api=4 type=1 insize=906 outsize=0 kw= pd= ok=0
+  error: 1 plat 16 at (13): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=2127 outsize=360 ok=1
 Cmd: preprocess
-  insize=959 outsize=327 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=929 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=929 outsize=453 kw= pd= ok=1
+  error: 1 plat 16 at (13): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=2131 outsize=361 ok=1
 Cmd: preprocess
-  insize=959 outsize=327 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=929 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=929 outsize=453 kw= pd= ok=1
+  error: 1 plat 16 at (13): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=2131 outsize=362 ok=1
 Cmd: preprocess
-  insize=959 outsize=327 ok=1
+  insize=2975 outsize=380 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (88): undeclared identifier 'TRANSFORM_TEX'\nCompiling Vertex program
+  api=4 type=0 insize=2896 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=959 outsize=327 ok=1
+  insize=2487 outsize=380 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=929 outsize=778 kw= pd= ok=1
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=2408 outsize=1038 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=929 outsize=453 kw= pd= ok=1
+  api=4 type=1 insize=2408 outsize=583 kw= ok=1
 Cmd: preprocess
-  insize=961 outsize=327 ok=1
+  insize=2487 outsize=380 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=931 outsize=778 kw= pd= ok=1
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=2408 outsize=1038 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=931 outsize=453 kw= pd= ok=1
+  api=4 type=1 insize=2408 outsize=583 kw= ok=1
 Cmd: preprocess
-  insize=959 outsize=327 ok=1
+  insize=2483 outsize=380 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=2404 outsize=1038 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2404 outsize=770 kw= ok=1
 Cmd: preprocess
-  insize=990 outsize=326 ok=1
+  insize=2480 outsize=378 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=960 outsize=859 kw= pd= ok=1
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=2403 outsize=1038 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=960 outsize=453 kw= pd= ok=1
+  api=4 type=1 insize=2403 outsize=786 kw= ok=1
 Cmd: preprocess
-  insize=959 outsize=327 ok=1
+  insize=2482 outsize=378 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=2405 outsize=1038 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2405 outsize=599 kw= ok=1
 Cmd: preprocess
-  insize=950 outsize=327 ok=1
+  insize=3046 outsize=378 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (37): 'frag': function must return a value\nCompiling Vertex program
-  error: 2 plat 4 at (37): undeclared identifier '_Color'\nCompiling Vertex program
-  api=4 type=0 insize=920 outsize=0 kw= pd= ok=0
+  error: 2 plat 4 at (95): undeclared identifier 'vec2'\nCompiling Vertex program
+  api=4 type=0 insize=2969 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=998 outsize=327 ok=1
+  insize=3048 outsize=378 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=968 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=968 outsize=469 kw= pd= ok=1
+  error: 2 plat 4 at (97): 'func2D': no matching 1 parameter function\nCompiling Vertex program
+  error: 2 plat 4 at (97): undeclared identifier 'uv'\nCompiling Vertex program
+  api=4 type=0 insize=2971 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1187 outsize=327 ok=1
+  insize=3050 outsize=378 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (36): undeclared identifier 'TRANSFORM_TEX'\nCompiling Vertex program
-  api=4 type=0 insize=1157 outsize=0 kw= pd= ok=0
+  error: 2 plat 4 at (99): undeclared identifier 'uv'\nCompiling Vertex program
+  api=4 type=0 insize=2973 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1193 outsize=327 ok=1
+  insize=3052 outsize=378 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (43): 'tex2D': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2D(sampler2D, float2|half2|min10float2|min16float2) tex2D(sampler2D, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2)\nCompiling Vertex program
-  error: 2 plat 4 at (43): invalid subscript 'uv'\nCompiling Vertex program
-  api=4 type=0 insize=1163 outsize=0 kw= pd= ok=0
+  error: 2 plat 4 at (99): undeclared identifier 'uv'\nCompiling Vertex program
+  api=4 type=0 insize=2975 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1221 outsize=327 ok=1
+  insize=3056 outsize=378 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (38): undeclared identifier '_MainTex_ST'\nCompiling Vertex program
-  api=4 type=0 insize=1191 outsize=0 kw= pd= ok=0
+  error: 2 plat 4 at (108): undeclared identifier 'c'\nCompiling Vertex program
+  api=4 type=0 insize=2979 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1245 outsize=327 ok=1
+  insize=3213 outsize=378 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1215 outsize=1087 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1215 outsize=729 kw= pd= ok=1
+  error: 2 plat 4 at (114): undeclared identifier 'mix'\nCompiling Vertex program
+  api=4 type=0 insize=3136 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1250 outsize=326 ok=1
+  insize=3214 outsize=378 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1220 outsize=1087 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1220 outsize=770 kw= pd= ok=1
+  error: 2 plat 4 at (121): undeclared identifier 'fragColor'\nCompiling Vertex program
+  api=4 type=0 insize=3137 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1303 outsize=358 ok=1
+  insize=3174 outsize=378 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1244 outsize=1087 kw= pd= ok=1
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3097 outsize=1038 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1244 outsize=754 kw= pd= ok=1
+  api=4 type=1 insize=3097 outsize=14193 kw= ok=1
 Cmd: preprocess
-  insize=1302 outsize=357 ok=1
+  insize=3175 outsize=376 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (121): syntax error: unexpected token ')'\nCompiling Vertex program
+  api=4 type=0 insize=3098 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1307 outsize=362 ok=1
+  insize=3174 outsize=378 ok=1
 Cmd: preprocess
-  insize=1302 outsize=357 ok=1
+  insize=3195 outsize=378 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3118 outsize=1038 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3118 outsize=14193 kw= ok=1
 Cmd: preprocess
-  insize=1305 outsize=360 ok=1
+  insize=3243 outsize=377 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3166 outsize=1038 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3166 outsize=648 kw= ok=1
 Cmd: preprocess
-  insize=1302 outsize=357 ok=1
+  insize=3272 outsize=378 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3195 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3195 outsize=648 kw= ok=1
 Cmd: preprocess
-  insize=1309 outsize=364 ok=1
+  insize=3224 outsize=378 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3147 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3147 outsize=14193 kw= ok=1
 Cmd: preprocess
-  insize=1310 outsize=365 ok=1
+  insize=3222 outsize=378 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3145 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3145 outsize=14193 kw= ok=1
 Cmd: preprocess
-  insize=1302 outsize=357 ok=1
+  insize=3226 outsize=378 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3149 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3149 outsize=14193 kw= ok=1
 Cmd: preprocess
-  insize=1307 outsize=362 ok=1
+  insize=3224 outsize=378 ok=1
 Cmd: preprocess
-  insize=1403 outsize=362 ok=1
+  insize=3306 outsize=429 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1340 outsize=1233 kw= pd= ok=1
+  error: 1 plat 4 at (86): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3178 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1340 outsize=892 kw= pd= ok=1
+  api=4 type=1 insize=3178 outsize=14347 kw= ok=1
 Cmd: preprocess
-  insize=1403 outsize=362 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1340 outsize=1233 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1340 outsize=892 kw= pd= ok=1
+  insize=3306 outsize=429 ok=1
 Cmd: preprocess
-  insize=1403 outsize=362 ok=1
+  insize=3310 outsize=433 ok=1
 Cmd: preprocess
-  insize=1403 outsize=362 ok=1
+  insize=3309 outsize=432 ok=1
 Cmd: preprocess
-  insize=1403 outsize=362 ok=1
+  insize=3307 outsize=430 ok=1
 Cmd: preprocess
-  insize=1415 outsize=374 ok=1
+  insize=3306 outsize=430 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (86): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3177 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3177 outsize=14347 kw= ok=1
 Cmd: preprocess
-  insize=1427 outsize=374 ok=1
+  insize=3398 outsize=484 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1352 outsize=1233 kw= pd= ok=1
+  error: 1 plat 4 at (90): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3215 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1352 outsize=892 kw= pd= ok=1
+  api=4 type=1 insize=3215 outsize=14542 kw= ok=1
 Cmd: preprocess
-  insize=1659 outsize=373 ok=1
+  insize=3484 outsize=537 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1584 outsize=1233 kw= pd= ok=1
+  error: 1 plat 4 at (92): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3248 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1584 outsize=892 kw= pd= ok=1
+  api=4 type=1 insize=3248 outsize=14249 kw= ok=1
 Cmd: preprocess
-  insize=1785 outsize=374 ok=1
+  insize=3483 outsize=537 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1710 outsize=1298 kw= pd= ok=1
+  error: 1 plat 4 at (92): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3247 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1710 outsize=892 kw= pd= ok=1
+  api=4 type=1 insize=3247 outsize=14249 kw= ok=1
 Cmd: preprocess
-  insize=1822 outsize=411 ok=1
+  insize=3478 outsize=537 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1710 outsize=1298 kw= pd= ok=1
+  error: 1 plat 4 at (92): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3242 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1710 outsize=892 kw= pd= ok=1
+  api=4 type=1 insize=3242 outsize=14249 kw= ok=1
 Cmd: preprocess
-  insize=1850 outsize=439 ok=1
+  insize=3478 outsize=537 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (92): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3242 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3242 outsize=14298 kw= ok=1
 Cmd: preprocess
-  insize=1849 outsize=438 ok=1
+  insize=3661 outsize=597 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (59): undeclared identifier 'fract'\nCompiling Vertex program
+  api=4 type=0 insize=3365 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1895 outsize=438 ok=1
+  insize=3660 outsize=597 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1756 outsize=1298 kw= pd= ok=1
+  error: 1 plat 4 at (101): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3364 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1756 outsize=892 kw= pd= ok=1
+  error: 2 plat 4 at (50): 'hash22': Not all control paths return a value\nCompiling Fragment program
+  api=4 type=1 insize=3364 outsize=0 kw= ok=0
 Cmd: preprocess
-  insize=1962 outsize=438 ok=1
+  insize=3661 outsize=597 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (48): undeclared identifier '_LightColor0'\nCompiling Vertex program
-  api=4 type=0 insize=1823 outsize=0 kw= pd= ok=0
+  error: 1 plat 4 at (101): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3365 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3365 outsize=18182 kw= ok=1
 Cmd: preprocess
-  insize=1938 outsize=414 ok=1
+  insize=3873 outsize=737 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (48): undeclared identifier '_LightColor0'\nCompiling Vertex program
-  api=4 type=0 insize=1823 outsize=0 kw= pd= ok=0
+  error: 1 plat 4 at (107): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3436 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3436 outsize=18377 kw= ok=1
 Cmd: preprocess
-  insize=1976 outsize=414 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (50): invalid subscript 'normal'\nCompiling Vertex program
-  api=4 type=0 insize=1861 outsize=0 kw= pd= ok=0
+  insize=3867 outsize=731 ok=1
 Cmd: preprocess
-  insize=1971 outsize=414 ok=1
+  insize=3840 outsize=714 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1856 outsize=1420 kw= pd= ok=1
+  error: 1 plat 4 at (107): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3427 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1856 outsize=892 kw= pd= ok=1
+  api=4 type=1 insize=3427 outsize=18084 kw= ok=1
 Cmd: preprocess
-  insize=1966 outsize=409 ok=1
+  insize=3823 outsize=707 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (107): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3417 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3417 outsize=18084 kw= ok=1
 Cmd: preprocess
-  insize=1968 outsize=408 ok=1
+  insize=3829 outsize=711 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1858 outsize=1420 kw= pd= ok=1
+  error: 1 plat 4 at (108): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3419 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1858 outsize=811 kw= pd= ok=1
+  api=4 type=1 insize=3419 outsize=17938 kw= ok=1
 Cmd: preprocess
-  insize=1995 outsize=412 ok=1
+  insize=3899 outsize=753 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1880 outsize=1420 kw= pd= ok=1
+  error: 1 plat 4 at (111): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3447 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (73): variable 'texColor' used without having been completely initialized\nCompiling Fragment program
-  api=4 type=1 insize=1880 outsize=0 kw= pd= ok=0
+  api=4 type=1 insize=3447 outsize=17987 kw= ok=1
 Cmd: preprocess
-  insize=2013 outsize=414 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1898 outsize=1420 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1898 outsize=664 kw= pd= ok=1
+  insize=3900 outsize=754 ok=1
 Cmd: preprocess
-  insize=2059 outsize=414 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1944 outsize=1420 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1944 outsize=892 kw= pd= ok=1
+  insize=3900 outsize=754 ok=1
 Cmd: preprocess
-  insize=2058 outsize=414 ok=1
+  insize=3902 outsize=754 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1943 outsize=1420 kw= pd= ok=1
+  error: 1 plat 4 at (111): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3449 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1943 outsize=892 kw= pd= ok=1
+  api=4 type=1 insize=3449 outsize=17841 kw= ok=1
 Cmd: preprocess
-  insize=2060 outsize=414 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1945 outsize=1420 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1945 outsize=664 kw= pd= ok=1
+  insize=3900 outsize=754 ok=1
 Cmd: preprocess
-  insize=2060 outsize=414 ok=1
+  insize=3899 outsize=754 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1945 outsize=1420 kw= pd= ok=1
+  error: 1 plat 4 at (111): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3446 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1945 outsize=664 kw= pd= ok=1
+  api=4 type=1 insize=3446 outsize=17987 kw= ok=1
 Cmd: preprocess
-  insize=2058 outsize=414 ok=1
+  insize=3900 outsize=754 ok=1
+Cmd: preprocess
+  insize=3899 outsize=754 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1943 outsize=1420 kw= pd= ok=1
+  error: 1 plat 4 at (111): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3446 outsize=1128 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1943 outsize=892 kw= pd= ok=1
+  api=4 type=1 insize=3446 outsize=17987 kw= ok=1
+Cmd: preprocess
+  insize=3900 outsize=754 ok=1
+Cmd: preprocess
+  insize=3993 outsize=808 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (115): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3486 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3486 outsize=17889 kw= ok=1
+Cmd: preprocess
+  insize=4090 outsize=867 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (118): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3524 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3524 outsize=17971 kw= ok=1
+Cmd: preprocess
+  insize=4091 outsize=867 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (118): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3525 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3525 outsize=17971 kw= ok=1
+Cmd: preprocess
+  insize=4089 outsize=867 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (118): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3523 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3523 outsize=17971 kw= ok=1
+Cmd: preprocess
+  insize=4091 outsize=867 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (118): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3525 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3525 outsize=17946 kw= ok=1
+Cmd: preprocess
+  insize=4089 outsize=866 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (118): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3523 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3523 outsize=17971 kw= ok=1
+Cmd: preprocess
+  insize=4159 outsize=925 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (142): undeclared identifier '_OuterFrquency'\nCompiling Vertex program
+  api=4 type=0 insize=3534 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4190 outsize=926 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (122): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3565 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3565 outsize=18036 kw= ok=1
+Cmd: preprocess
+  insize=4191 outsize=926 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (122): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3566 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3566 outsize=18036 kw= ok=1
+Cmd: preprocess
+  insize=4240 outsize=970 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (112): undeclared identifier '_DENSITY'\nCompiling Vertex program
+  api=4 type=0 insize=3571 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4265 outsize=970 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (126): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3596 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3596 outsize=17971 kw= ok=1
+Cmd: preprocess
+  insize=4265 outsize=970 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (126): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3596 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3596 outsize=18101 kw= ok=1
+Cmd: preprocess
+  insize=4355 outsize=1041 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (116): 'smoothVoronoi': no matching 2 parameter function\nCompiling Vertex program
+  error: 2 plat 4 at (116): undeclared identifier '_DistortionMarkerSize'\nCompiling Vertex program
+  api=4 type=0 insize=3615 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4388 outsize=1041 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (129): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3648 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3648 outsize=18158 kw= ok=1
+Cmd: preprocess
+  insize=4388 outsize=1041 ok=1
+Cmd: preprocess
+  insize=4390 outsize=1040 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (129): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3650 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3650 outsize=18158 kw= ok=1
+Cmd: preprocess
+  insize=4389 outsize=1041 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (129): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3649 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3649 outsize=18158 kw= ok=1
+Cmd: preprocess
+  insize=4455 outsize=1096 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (118): undeclared identifier '_RingFrequency'\nCompiling Vertex program
+  api=4 type=0 insize=3659 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4481 outsize=1097 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (131): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3685 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3685 outsize=18182 kw= ok=1
+Cmd: preprocess
+  insize=4482 outsize=1097 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (131): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3686 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3686 outsize=18231 kw= ok=1
+Cmd: preprocess
+  insize=4481 outsize=1097 ok=1
+Cmd: preprocess
+  insize=4475 outsize=1091 ok=1
+Cmd: preprocess
+  insize=4475 outsize=1090 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (131): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3685 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3685 outsize=18182 kw= ok=1
+Cmd: preprocess
+  insize=4475 outsize=1091 ok=1
+Cmd: preprocess
+  insize=4475 outsize=1091 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (131): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3685 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3685 outsize=18182 kw= ok=1
+Cmd: preprocess
+  insize=4475 outsize=1091 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (131): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3685 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3685 outsize=18182 kw= ok=1
+Cmd: preprocess
+  insize=4550 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (173): undeclared identifier '_Color1'\nCompiling Vertex program
+  api=4 type=0 insize=3708 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (135): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3728 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3728 outsize=18166 kw= ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (135): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3728 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3728 outsize=583 kw= ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (135): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3728 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3728 outsize=583 kw= ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: preprocess
+  insize=4573 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (135): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3731 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3731 outsize=18247 kw= ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (135): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3728 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3728 outsize=18166 kw= ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (135): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3728 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3728 outsize=18166 kw= ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (135): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3728 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3728 outsize=18084 kw= ok=1
+Cmd: preprocess
+  insize=4570 outsize=1143 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (135): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3728 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3728 outsize=18166 kw= ok=1
+Cmd: preprocess
+  insize=4657 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3769 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3769 outsize=18182 kw= ok=1
+Cmd: preprocess
+  insize=4657 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3769 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3769 outsize=18247 kw= ok=1
+Cmd: preprocess
+  insize=4647 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3759 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3759 outsize=18182 kw= ok=1
+Cmd: preprocess
+  insize=4636 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3748 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3748 outsize=18166 kw= ok=1
+Cmd: preprocess
+  insize=4641 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3753 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3753 outsize=18174 kw= ok=1
+Cmd: preprocess
+  insize=4647 outsize=1189 ok=1
+Cmd: preprocess
+  insize=4704 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3816 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3816 outsize=18044 kw= ok=1
+Cmd: preprocess
+  insize=4712 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3824 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3824 outsize=18003 kw= ok=1
+Cmd: preprocess
+  insize=4712 outsize=1188 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3824 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3824 outsize=18182 kw= ok=1
+Cmd: preprocess
+  insize=4670 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (170): undeclared identifier 'Color2'\nCompiling Vertex program
+  api=4 type=0 insize=3782 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4672 outsize=1189 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (137): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3784 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3784 outsize=18247 kw= ok=1
+Cmd: preprocess
+  insize=4736 outsize=1232 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (139): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3804 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3804 outsize=18247 kw= ok=1
+Cmd: preprocess
+  insize=4768 outsize=1233 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (139): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3836 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3836 outsize=18312 kw= ok=1
+Cmd: preprocess
+  insize=4768 outsize=1233 ok=1
+Cmd: preprocess
+  insize=4769 outsize=1233 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (139): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3837 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3837 outsize=18312 kw= ok=1
+Cmd: preprocess
+  insize=4768 outsize=1233 ok=1
+Cmd: preprocess
+  insize=4793 outsize=1233 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (139): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3861 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3861 outsize=18434 kw= ok=1
+Cmd: preprocess
+  insize=4795 outsize=1233 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (139): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3863 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3863 outsize=18434 kw= ok=1
+Cmd: preprocess
+  insize=4796 outsize=1233 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (139): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3864 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3864 outsize=18434 kw= ok=1
+Cmd: preprocess
+  insize=4798 outsize=1232 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (139): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3866 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3866 outsize=18369 kw= ok=1
+Cmd: preprocess
+  insize=4822 outsize=1233 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (140): Output value 'vert' is not completely initialized\nCompiling Vertex program
+  api=4 type=0 insize=3890 outsize=1128 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3890 outsize=18369 kw= ok=1
